@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MyBatisX 让你更加方便的使用mybatis框架
 
 `解决mybatis重复使用的代码`
 
